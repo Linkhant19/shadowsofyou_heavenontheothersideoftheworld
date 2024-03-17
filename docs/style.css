@@ -86,11 +86,11 @@
     }
     
     .front #f1 {
-        justify-content: center; 
+        justify-content: space-around; 
         align-items: center;
         font-size: 122%;
         line-height: 160%;
-        margin-left: 0%;
+        margin-left: 2%;
         margin-top: 0%;
     }
     
