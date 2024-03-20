@@ -1,6 +1,9 @@
 # shadowsofyou_heavenontheothersideoftheworld
 
 This repo is a part of my collection called "Shadows of You". 
+
+Here is the link to the main website repo: https://github.com/Linkhant19/ShadowsOfYou
+
 I wanted to present some of the poems that I wrote in a new and interesting way, so I created a flip book website for each poem. 
 This one is named: Heaven on the Other Side of the World
 
